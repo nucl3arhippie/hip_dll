@@ -1,4 +1,8 @@
 {
-  "status": "Release",
-  "last_update": "08.10.2025"
+  "cs2": {
+    "name": "Counter-Strike 2",
+    "build": "Release",
+    "updated": "08.10.2025",
+    "tag": "#nuclearhippiemoneygang"
+  }
 }
